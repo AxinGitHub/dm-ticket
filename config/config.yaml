@@ -1,6 +1,6 @@
 accounts:
     # .damai.cn中的cookie完整字符串
-    - cookie: ""
+    - cookie: "cna=I0rzHM/1VVQCATazhX7MmMRV; _samesite_flag_=true; cookie2=1c808722fa54af922cf6177ac5a059a7; t=33592650cfc22f1afe18486e5f6bfadf; _tb_token_=ebee5e4b71fd3; xlly_s=1; _hvn_login=18; munb=3745904906; csg=b7edf9c5; _m_h5_tk=579dfa41700f4190d0ad56868c97f535_1685618402982; _m_h5_tk_enc=5a6452f77b93953543ec4e88f1abb622; l=fBS2Ge14NwMpODm5BO5a-urza779WIOfCsPzaNbMiIEGa6d5tFTD0NC_W04HSdtjgTf03UxrtWFbsdEB5yaLRAkDBeYBerBEMqJ9-iQWnr1..; tfstk=cKbfBwwNVxDXUPaioKNPRCoRsRYNallB1o9cGJNUW4Zb571Xesmt8p_32GD97Cd5.; usercode=90683494; dm_nickname=XuXin; havanaId=3745904906; isg=BGRk0IdX3K-l5ShjcaDhYP8xNWJW_YhnOGIyg36FsC_yKQTzpg929paP6YEx8cC_"
       remark: 账号1
       # 抢票轮训间隔, 单位毫秒
       interval: 30
@@ -20,9 +20,9 @@ accounts:
 
       ticket:
         # 需要抢购的门票ID, 门票详情页URL中的itemId.如:https://m.damai.cn/damai/detail/item.html?utm=&itemId=710947802955
-        id: "721069251830"
+        id: "721170110874"
         # 需要抢购的门票数量
-        num: 1
+        num: 2
         # 需要抢购的场次序号.
         sessions: 1
         # 需要抢购的票档序号
